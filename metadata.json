@@ -1,0 +1,6 @@
+{
+  "name": "Heatwise Heating - Leeds Boiler Specialists",
+  "description": "Comprehensive multi-page website and instant boiler quote tool for Heatwise Heating Leeds, featuring boiler installations, servicing, finance options, and gas safe heating care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
